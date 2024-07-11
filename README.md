@@ -26,3 +26,5 @@ roslaunch moveit_pkg demo_gazebo.launch
 ```
 
 <img src="https://github.com/GDHadeel/Robot-Arm-Control-with-Joint-State-Publisher-and-MoveIt/assets/106381596/410fb73a-e2f4-47a7-a041-ecd0669d7217" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
+
+https://github.com/GDHadeel/Robot-Arm-Control-with-Joint-State-Publisher-and-MoveIt/assets/106381596/9963e4a3-24d6-4f49-9620-fce99ef7cf6f
